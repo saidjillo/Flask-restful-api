@@ -22,7 +22,7 @@ A user can also delete , modify, and save save item names
 
 ```
 
-# Folder Structure for the project
+# Start the program
 
 ```
 To start the project simply navigate into code directory and run python run.py in comand line
