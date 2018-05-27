@@ -17,7 +17,7 @@ A user can also delete , modify, and save save item names
 
 ```
 
-![alt text](https://github.com/saidjillo/Flask-restful-api/blob/master/code-tree.PNG)
+![alt text](https://raw.githubusercontent.com/saidjillo/Flask-restful-api/master/code-tree.PNG)
 
 ```
 
